@@ -1,2 +1,2 @@
-sphinx>=1.1.2,!=1.2.0,!=1.3b1,<1.3 # BSD
-alabaster==0.7.8
+Sphinx==1.6.3
+alabaster==0.7.10
