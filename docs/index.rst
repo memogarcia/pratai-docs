@@ -48,7 +48,9 @@ User Guide
    user/security
    user/types
    user/event_sources
+   user/guide_logs
    user/autoscaling
+   user/advanced_user_guide
    user/examples
 
 
